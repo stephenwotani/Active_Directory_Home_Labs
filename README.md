@@ -1,23 +1,13 @@
-# IT-Helpdesk Support-Projects
-This repository contains my works as a proof of knowledge on helpdesk related tasks  .
-Hello welcome my Name is Stephen Wotani but you can call me Steve. 
-This is is my repository for all my helpdesk related projects and i'm gonna be doing a couple of projects to show potential employers my knowlege of the neccesary help desk support skills  
-# My Helpdesk Support skills 
-***
-🔹Active Directory  
-🔹Microsoft 365 Admin Center  
-🔹Entra ID (formerly Azure AD)  
-🔹Windows 10/11  
-🔹Windows Server  
-🔹PowerShell  
-🔹Command Prompt  
-🔹Remote Desktop  
-🔹VPN troubleshooting  
-🔹Printers  
-🔹DNS  
-🔹DHCP  
-🔹TCP/IP  
-🔹Ticketing systems  
-🔹VMware or VirtualBox  
-🔹Hardware Troubleshooting   
-🔹Softdware Troubleshooting 
+# Active Directory Home Labs
+---
+
+# Hello welcome to my active directory folder where i showcase my skills in using Active Directory for Identity and Access Management.
+
+**WHAT IS ACTIVE DIRECTORY?**: Active directory is a microsoft centralized directory used to manage users,computers,securitypolicies and resources accross a network
+It is used for the following  
+✅Centralized identity Management  
+✅Authentication Services  
+✅Authorization and Access control  
+✅Policy Based configuration for systems  
+✅Secure resource managemnt  
+   It stores informations in  hierachical database and allows IT admins to manage an entire network from a single location
